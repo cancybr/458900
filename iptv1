@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="beinsportsglobal.qa" tvg-name="beiN Sports HD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein.png" group-title="AR Bein Sports",beiN Sports HD
+http://mitvpro.online:25461/b2pHZhaPVhZHdDk/ZgZZqZmCfJPzzHf/6727
+#EXTINF:-1 tvg-ID="beinsportsnews.qa" tvg-name="beiN Sports News" tvg-logo="" group-title="AR Bein Sports",beiN Sports News
+http://mitvpro.online:25461/b2pHZhaPVhZHdDk/ZgZZqZmCfJPzzHf/5221
+#EXTINF:-1 tvg-ID="beinsports1.qa" tvg-name="BeinSport 1 FHD	" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein1.png" group-title="AR Bein Sports",BeinSport 1 FHD	
+http://mitvpro.online:25461/b2pHZhaPVhZHdDk/ZgZZqZmCfJPzzHf/60958
+#EXTINF:-1 tvg-ID="beinsports2.qa" tvg-name="BeinSport 2 FHD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein2.png" group-title="AR Bein Sports",BeinSport 2 FHD
+http://mitvpro.online:25461/b2pHZhaPVhZHdDk/ZgZZqZmCfJPzzHf/28751
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="BeinSport 3 FHD	" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein3.png" group-title="AR Bein Sports",BeinSport 3 FHD	
+http://mitvpro.online:25461/b2pHZhaPVhZHdDk/ZgZZqZmCfJPzzHf/60959
+#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="BeinSport 4 FHD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein4.png" group-title="AR Bein Sports",BeinSport 4 FHD
+http://mitvpro.online:25461/b2pHZhaPVhZHdDk/ZgZZqZmCfJPzzHf/36302
+#EXTINF:-1 tvg-ID="beinsports5.qa" tvg-name="BeinSport 5 FHD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein5.png" group-title="AR Bein Sports",BeinSport 5 FHD
+http://mitvpro.online:25461/b2pHZhaPVhZHdDk/ZgZZqZmCfJPzzHf/36301
+#EXTINF:-1 tvg-ID="beinsports6.qa" tvg-name="BeinSport 6 FHD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein6.png" group-title="AR Bein Sports",BeinSport 6 FHD
+http://mitvpro.online:25461/b2pHZhaPVhZHdDk/ZgZZqZmCfJPzzHf/36300
+#EXTINF:-1 tvg-ID="beinsports7.qa" tvg-name="BeinSport 7 FHD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein7.png" group-title="AR Bein Sports",BeinSport 7 FHD
+http://mitvpro.online:25461/b2pHZhaPVhZHdDk/ZgZZqZmCfJPzzHf/36299
+#EXTINF:-1 tvg-ID="beinsports8.qa" tvg-name="BeinSport 8 FHD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein8.png" group-title="AR Bein Sports",BeinSport 8 FHD
+http://mitvpro.online:25461/b2pHZhaPVhZHdDk/ZgZZqZmCfJPzzHf/36298
+#EXTINF:-1 tvg-ID="beinsports9.qa" tvg-name="BeinSport 9 FHD" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein9.png" group-title="AR Bein Sports",BeinSport 9 FHD
+http://mitvpro.online:25461/b2pHZhaPVhZHdDk/ZgZZqZmCfJPzzHf/36297
